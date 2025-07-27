@@ -13,17 +13,17 @@ GDP, population, life expectancy, literacy rate, and CO₂ emissions, across dif
 
 
 ## 🛠 Tools Used
-•	Tableau Public/Desktop for data visualization
-•	WDI Dataset from World Bank Open Data
+•	Tableau Public/Desktop for data visualization.
+•	WDI Dataset from World Bank Open Data.
 
 ## 📂 File Info
 •	WDI Visualization.twbx: Packaged Tableau Workbook that contains the dashboard and embedded dataset.
 
 📌 Purpose
 This project aims to:
-•	Explore global development patterns
-•	Create a compelling data storytelling tool
-•	Practice data visualization using real-world datasets
+•	Explore global development patterns.
+•	Create a compelling data storytelling tool.
+•	Practice data visualization using real-world datasets.
 
 
 
